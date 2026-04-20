@@ -1,0 +1,2 @@
+# BildkompressionMitSingulaerwertzerlegung
+Bildkompression mit Singulärwertzerlegung
