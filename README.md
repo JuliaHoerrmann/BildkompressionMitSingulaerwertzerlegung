@@ -1,7 +1,9 @@
 # BildkompressionMitSingulaerwertzerlegung
 Bildkompression mit Singulärwertzerlegung
 
-Gehe zum Installationspfad mit dem Befehl: cd Installationspfad:
+Öffne die Eingabeaufforderung
+
+Gehe zum Installationspfad mit dem Befehl:     cd Installationspfad
 
 Installiere die benötigten Pakete Jupyter, matplotlib und pillow mit: 
 
